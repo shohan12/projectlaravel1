@@ -1,0 +1,55 @@
+ 
+
+ p{
+	text-align:center;
+    border: 1px solid white;	 
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(user.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+header
+{
+	
+	background-size: cover;
+	background-position: center;
+
+}
+h1{
+	text-align: center;
+}
+h3
+{
+	text-align: center;
+}
+.main-nuv li
+{
+	display: inline-block;
+}
+.main-nuv li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+.main-nuv li.active a
+{
+	border: 1px solid white;
+}
+
+.main-nuv li a:hover
+{
+	border: 1px white;
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}

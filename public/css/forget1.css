@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(forget.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 50px;
+
+}
+p{
+    font: bold;
+    font-color: blue;
+
+}
+
+
+
+.login-box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+}
+.login-box a:hover
+{
+    color: #39dc79;
+}
+input[type="text"]
+{
+    text-align: center;
+    width: 20%;
+    height: 50px;
+    border:2px solid #aaa;
+    background: #fff;
+    width: 300px;
+    border: none;
+    padding: 0 25px;
+    border-radius: 25px 0 0 25px;
+}
+.box{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.col-md-20-alert-alert-danger{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    text-align: center;
+
+}
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: .5s;
+}
+input[type="submit"]
+{
+    position: relative;
+    left: -5px;
+    border-radius: 25px 25px 25px 25px;
+    width: 150px;
+    height: 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #ffc107;
+    color:#fff;
+}
+
+
+input[type="submit"].hover
+{
+     background: #blue; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
